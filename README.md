@@ -13,6 +13,7 @@ jolla tyhmyristä saa mukavasti ja hauskasti suomea puhuvan työkalun.
 ### Kielikukkaset
 
 git = tyhmyri  
+alias = toinen nimi  
 fork = haarukka  
 remote = kaukosäädin  
 
